@@ -48,3 +48,8 @@ if (z > 5) {
 } else {
   print("z is not greater than 5") # Print this message if z is not greater than 5
 }
+
+
+random_numbers <- runif(10, min = 1, max = 10)
+print(random_numbers)
+
